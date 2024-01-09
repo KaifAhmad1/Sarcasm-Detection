@@ -1,1 +1,2 @@
-# Sarcasm-Detection
+## Sarcasm-Detection using Ensemble Learning and Deep Learning
+The project, **`Sarcasm-Detection using Ensemble Learning and Deep Learning,`** focuses on identifying sarcasm in **`Financial News Headlines.`** It employs an **`LSTM-based model`** and a **`LightGBM model`** using **`tf-idf`** for feature representation. With practical applications in sentiment analysis and social media monitoring, the project addresses linguistic nuances in financial news. Challenges include imbalanced data and linguistic complexity.
